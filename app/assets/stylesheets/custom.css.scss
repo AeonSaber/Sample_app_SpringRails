@@ -116,6 +116,7 @@ footer {
   margin-top: 45px;
   @include box_sizing;
 }
+
 /* sidebar */
 
 aside {
@@ -186,6 +187,7 @@ input {
     }
   }
 }
+
 /* microposts */
 
 .microposts {
@@ -213,3 +215,5 @@ aside {
     margin-bottom: 5px;
   }
 }
+
+
